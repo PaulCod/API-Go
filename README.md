@@ -1,1 +1,1 @@
-Nesso projeto criamos uma API com GO
+Nesse projeto criamos uma API com GO
